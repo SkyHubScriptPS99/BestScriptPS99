@@ -1,0 +1,7 @@
+spawn(function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SKOIXLL/RIVERHUB-SKYHUB/main/WL.lua'))()
+end)
+
+wait(60)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkyHubScriptPS99/PetSimulator99/main/script"))()
